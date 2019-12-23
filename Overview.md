@@ -8,7 +8,8 @@
 - Löten (CoderDojo Linz mit HTL Leonding (Werkstätte))
 - Robotik (HTL Leonding (Peter Bauer / Franz Auernig))
 - IT Security (FH Hagenberg mit HTL Leonding (Erik Sonnleitner))
-- Industrierobotik (HTL Leonding / Matthias Kurz  )
+- Industrierobotik (HTL Leonding / Matthias Kurz)
+- Infocafé für Eltern und Erziehungsberechtigte (HTL Leonding / Richard Kainerstorfer)
 
 ## Werbung
 - HTL Leonding: Mediawall im Eingangsbereich mit Informationen (ab 7.1.2020) 
