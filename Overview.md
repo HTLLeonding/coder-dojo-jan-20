@@ -3,11 +3,11 @@
 ## Stationen / Tracks
 
 - ScratchKidies (CoderDojo Linz)
-- Fotografie (CoderDojo Linz)
 - Website Entwicklung (CoderDojo Linz)
 - Löten (CoderDojo Linz mit HTL Leonding (Werkstätte))
 - Robotik (HTL Leonding (Peter Bauer / Franz Auernig))
 - IT Security (FH Hagenberg mit HTL Leonding (Erik Sonnleitner))
+- Sorting Algorithms (JKU (Markus Weninger))
 - Industrierobotik (HTL Leonding / Matthias Kurz)
 - Infocafé für Eltern und Erziehungsberechtigte (HTL Leonding / Richard Kainerstorfer)
 
@@ -22,8 +22,8 @@
 - 2 Räume – Bibliothek mit 4 Arbeitsinseln und Festsaal mit 8 Arbeitsinseln; 
 - Bestuhlung und Tische, Strom, WIFI
 
-### Fotografie
-- Seminarraum E26
+### Sorting Algorithms
+- EDV 10
 - Bestuhlung und Tische, Strom, WIFI
 
 ### Robotik
@@ -31,12 +31,12 @@
 - Bestuhlung und Tische, Strom, WIFI
 
 ### Network Security
-- Raum????
+- Raum 1CHIF
 - Bestuhlung und Tische, Strom, WIFI
 - Erik Sonnleitner als Koordinator 
 
 ### Website Entwicklung: Klasse im EG (Chemie-, Physiksaal)
-- Raum????
+- Seminarraum E26
 - Bestuhlung und Tische, Strom, WIFI
 
 ### Löten
@@ -47,9 +47,14 @@
 - Werkstätte
 - läuft autonom
 
+### Eltern-Café
+- LehrerInnen-Kaffee-Bereich
+- Informell, Aufsteller der JKU und der FH
+
 ## Empfang
 - Eingangsbereich der Schule mit Tischen
 - 3 bis 5 Schüler dafür abstellen
+- Aufsteller der FH und JKU?
 
 ## Buffet
 - Bereich des offiziellen Buffets,  für ca. 200 Personen 
