@@ -1,2 +1,5 @@
 - Liptauer: Dominik Ortbauer
-- Kuchen: Matteo Mattischek
+- Kuchen: Matteo Mattischek, Sebastian Muric, Herolind, Hajredini, Walter Pichl, Gabriel Gerhart (2)
+- Wurstaufstrich: Florian Braunbock
+- Topfen-Kräuter-Aufstrich: Jonas Lorenz
+- Generischer Aufstrich: Simon Sixt, Ajdin Keric, Gabriel Gerhart (3)
