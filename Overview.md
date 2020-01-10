@@ -35,7 +35,7 @@
 - Bestuhlung und Tische, Strom, WIFI
 - Erik Sonnleitner als Koordinator 
 
-### Website Entwicklung: Klasse im EG (Chemie-, Physiksaal)
+### Website Entwicklung
 - Seminarraum E26
 - Bestuhlung und Tische, Strom, WIFI
 
